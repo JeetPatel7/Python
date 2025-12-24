@@ -16,4 +16,4 @@ class bank:
 
 acc1 = bank(1000,1234)
 acc1.credit(100)
-print(acc1.balance)
+print(acc1.balance) #1
